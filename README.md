@@ -1,7 +1,3 @@
-Certainly! Below is the API testing documentation converted to `README.md` format:
-
----
-
 ## API Testing Documentation
 
 ### Base URL:
