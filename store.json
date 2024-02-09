@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "title1",
+      "author": "CIQ",
+      "views": 100,
+      "reviews": 31
+    },
+    {
+      "id": 1,
+      "title": "title2",
+      "author": "CommerceIQ",
+      "views": 10
+    }
+  ],
+  "authors": [
+    {
+      "id": 0,
+      "first_name": "Commerce",
+      "last_name": "IQ",
+      "posts": 45
+    },
+    {
+      "id": 1,
+      "title": "New Post",
+      "author": "John Doe",
+      "views": 50
+    }
+  ]
+}
